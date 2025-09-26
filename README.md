@@ -34,8 +34,9 @@ Vous arriverez sur le menu principal où vous pourrez choisir entre le menu clie
 
 ## Auteurs
 
-- Lucas THIEBAUT
+- [Lucas THIEBAUT](https://lthb.fr)
 
 ## Licence
 
 Ce projet est sous licence GNU GPLv3. Voir le fichier LICENSE pour plus de détails.
+
